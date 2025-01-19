@@ -1,0 +1,7 @@
+Arduino Morse Code Translator with LCD Display
+This project implements a Morse code translator using an Arduino, a push button, an LED, and a LiquidCrystal display. The user can input Morse code through short and long button presses, which are translated into text and displayed on the LCD. The LED provides visual feedback for button presses and resets.
+
+Demonstration
+
+Features
+Morse Code Input: Users can enter Morse code using a two buttons.
